@@ -124,64 +124,47 @@ Included analyses:
 
 ## Tableau Dashboards
 
-Located in:
-
-```text
-dashboards/
-```
+---
 
 ### 1. Executive Sales Overview Dashboard
 
-File:
+![Executive Sales Overview Dashboard](dashboards/sales-overview-dashboard.png)
 
-```text
-sales-overview-dashboard.png
-```
+**Focus:**
 
-Focus:
-
-* KPI Summary
-* Monthly Orders Trend
-* Month-over-Month Growth
-* Current vs Previous Month Orders
-* Growth Performance
+- KPI Summary  
+- Monthly Orders Trend  
+- Month-over-Month Growth  
+- Current vs Previous Month Orders  
+- Growth Performance  
 
 ---
 
 ### 2. Customer Insights Dashboard
 
-File:
+![Customer Insights Dashboard](dashboards/customer-insights-dashboard.png)
 
-```text
-customer-insights-dashboard.png
-```
+**Focus:**
 
-Focus:
-
-* Customer Retention
-* Purchase Frequency
-* Segment Distribution
-* Unique Customers by Store
-* Average Orders by Segment
+- Customer Retention  
+- Purchase Frequency  
+- Segment Distribution  
+- Unique Customers by Store  
+- Average Orders by Segment  
 
 ---
 
 ### 3. Operations & Store Performance Dashboard
 
-File:
+![Operations & Store Performance Dashboard](dashboards/operations-store-performance-dashboard.png)
 
-```text
-operations-store-performance-dashboard.png
-```
+**Focus:**
 
-Focus:
-
-* Delivery Delay Trends
-* Store Ranking
-* Orders Contribution
-* Staff Productivity
-* Average Delivery Days
-
+- Delivery Delay Trends  
+- Store Ranking  
+- Orders Contribution  
+- Staff Productivity  
+- Average Delivery Days  
 ---
 
 ## Key Insights
